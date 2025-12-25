@@ -6,7 +6,8 @@
   "scripts": {
     "db:up": "docker-compose up mongodb -d",
     "db:down": "docker-compose down",
-    "db:logs": "docker-compose logs -f mongodb"
+    "db:logs": "docker-compose logs -f mongodb",
+    "dev:server": "npm run dev --workspace=server"
   },
   "author": "",
   "license": "ISC",
