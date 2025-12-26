@@ -14,3 +14,7 @@ template for fullstack web application
 - [ ] tests front
 - [ ] tests back
 - [ ] tests utils
+- [x] backend basic config
+- [x] add mongodb container
+- [x] figure out npm workspaces
+- [x] add common dependencies 
