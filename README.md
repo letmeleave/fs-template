@@ -7,3 +7,10 @@ template for fullstack web application
 - [ ] prod scripts
 - [ ] reg and auth frontend
 - [ ] ci/cd
+- [ ] dotenv configs
+- [ ] eslit & prettier
+- [ ] logs and alerts
+- [ ] smtp container
+- [ ] tests front
+- [ ] tests back
+- [ ] tests utils
