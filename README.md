@@ -1,20 +1,11 @@
 # fs-template
 template for fullstack web application
 
-- [ ] frontend basic config
-- [ ] dev scripts
-- [ ] reg and auth backend
-- [ ] prod scripts
-- [ ] reg and auth frontend
-- [ ] ci/cd
+- [ ] db backups
 - [ ] dotenv configs
-- [ ] eslit & prettier
 - [ ] logs and alerts
-- [ ] smtp container
+- [ ] reg and auth backend
+- [ ] reg and auth frontend
 - [ ] tests front
 - [ ] tests back
 - [ ] tests utils
-- [x] backend basic config
-- [x] add mongodb container
-- [x] figure out npm workspaces
-- [x] add common dependencies 
